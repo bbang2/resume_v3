@@ -1,12 +1,12 @@
 {
-  "name": "resume",
+  "name": "resume_v3",
   "version": "0.0.0",
   "repository": "https://github.com/bbang2/resume_v3.git",
   "author": "hyeseon <hhseonkim@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "rm -rf docs; parcel build -d docs --public-url /resume src/index.html"
+    "build": "rm -rf docs; parcel build -d docs --public-url /resume_v3 src/index.html"
   },
   "dependencies": {
     "normalize.css": "^8.0.0",
